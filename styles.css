@@ -140,3 +140,7 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+
+.col-md-4 {
+    padding: 40px;
+}
