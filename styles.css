@@ -144,3 +144,10 @@ h2 {
 #imagem1{
     width: 1150px;
 }
+
+.menu-acessiblidade{
+    position: fixed;
+    top:2rem;
+    right: 20px;
+    z-index:1000;
+}
