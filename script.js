@@ -3,10 +3,10 @@ document.addEventListener('DOMContentLoaded', function(){
  const botaoDeAcessesibilidade = document.getElementById('botao-acessibilidade');
  const opcoesDeAcessisibilidade = document.getElementById('opcoes-acessiblidade');
 
- botaoDeAcessibilidade.addEventListener('click', function);{
+ botaoDeAcessibilidade.addEventListener('click', function() {
  botaoDeAcessesibilidade.classList.toggle('rotacao-botao');
  botaoDeAcessesibilidade.classList.toggle('apresenta-lista')
- }
+ })
 
 const aumentaFonteBotao =  document.getElementById('aumenta-fonte');
  const diminuaFonteBotao =  document.getElementById('diminua-fonte');
